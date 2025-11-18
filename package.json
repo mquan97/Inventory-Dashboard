@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "recharts": "^3.2.1",
-    "zod": "^4.1.12"
-  }
-}

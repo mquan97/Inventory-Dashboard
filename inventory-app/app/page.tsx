@@ -15,7 +15,7 @@ export default async function Home() {
           <div className="flex gap-2">
             <Link
               href="/dashboard"
-              className="bg-yellow-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-purple-700 transition-colors"
+              className="bg-yellow-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-yellow-700 transition-colors"
             >
               Dash Board
             </Link>
